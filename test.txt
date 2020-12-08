@@ -1,0 +1,3 @@
+set hivevar:Startdate=2020-11-07;
+set hivevar:Enddate=2020-11-11;
+set hivevar:experiment=200611_HTL_iscmr;
